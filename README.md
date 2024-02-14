@@ -5,7 +5,9 @@ This Python program implements the classic Caesar Cipher algorithm for text encr
 
 Key Features:
 
-User-friendly input for message and shift value.\n Implementation of the Caesar Cipher algorithm.
+User-friendly input for message and shift value.
+
+Implementation of the Caesar Cipher algorithm.
 Interactive user experience.
 
 Usage:

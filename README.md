@@ -1,11 +1,11 @@
 # PRODIGY_CS_01
-Description:
+## Description:
 
 This Python program implements the classic Caesar Cipher algorithm for text encryption and decryption. Users can input a message and a shift value, allowing the manipulation of the message's characters for secure communication. The script provides an interactive experience, making it an excellent introduction to Python programming and cryptographic algorithms.
 
 
 
-Key Features:
+## Key Features:
 
 User-friendly input for message and shift value.
 
@@ -15,7 +15,7 @@ Interactive user experience.
 
 
 
-Usage:
+## Usage:
 
 Run the script.
 
